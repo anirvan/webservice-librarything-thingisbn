@@ -20,7 +20,7 @@ configure_requires:
 provides:
   WebService::LibraryThing::ThingISBN:
     file: lib/WebService/LibraryThing/ThingISBN.pm
-    version: 0.501
+    version: 0.502
 generated_by: Module::Build version 0.34
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html

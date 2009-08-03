@@ -16,11 +16,11 @@ WebService::LibraryThing::ThingISBN - Get ISBNs for all editions of a book
 
 =head1 VERSION
 
-Version 0.501
+Version 0.502
 
 =cut
 
-our $VERSION = '0.501';
+our $VERSION = '0.502';
 
 =head1 SYNOPSIS
 
