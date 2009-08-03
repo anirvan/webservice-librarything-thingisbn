@@ -323,65 +323,6 @@ sub _sleep_until_time {
     return;
 }
 
-=head1 AUTHOR
-
-Anirvan Chatterjee, C<< <x.cpan at chatterjee.net> >>
-
-=head1 BUGS
-
-Please report any bugs or feature requests to
-C<bug-webservice-librarything-thingisbn at rt.cpan.org>, or through
-the web interface at
-L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=WebService-LibraryThing>.
-I will be notified, and then you'll automatically be notified of
-progress on your bug as I make changes.
-
-=head1 SUPPORT
-
-You can find documentation for this module with the perldoc command.
-
-    perldoc WebService::LibraryThing::ThingISBN
-
-
-You can also look for information at:
-
-=over 4
-
-=item * RT: CPAN's request tracker
-
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=WebService-LibraryThing>
-
-=item * AnnoCPAN: Annotated CPAN documentation
-
-L<http://annocpan.org/dist/WebService-LibraryThing>
-
-=item * CPAN Ratings
-
-L<http://cpanratings.perl.org/d/WebService-LibraryThing>
-
-=item * Search CPAN
-
-L<http://search.cpan.org/dist/WebService-LibraryThing>
-
-=back
-
-
-=head1 ACKNOWLEDGEMENTS
-
-Thanks to LibraryThing for making thingISBN available.
-
-=head1 COPYRIGHT & LICENSE
-
-Copyright 2008 Anirvan Chatterjee.
-
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
-
-Use of the LibraryThing thingISBN API is governed by the terms of use
-listed at L<http://www.librarything.com/api>.
-
-=cut
-
 1;    # End of WebService::LibraryThing::ThingISBN
 
 # Local Variables:
