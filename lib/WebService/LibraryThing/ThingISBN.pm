@@ -130,6 +130,9 @@ by the Free Software Foundation; or the Artistic License.
 
 See http://dev.perl.org/licenses/ for more information.
 
+Use of the LibraryThing thingISBN API is governed by the terms of use
+listed at L<http://www.librarything.com/api>.
+
 =cut
 
 sub thing_isbn_list {
