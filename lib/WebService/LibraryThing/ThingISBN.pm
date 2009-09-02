@@ -25,7 +25,7 @@ our $VERSION = '0.502';
 =head1 SYNOPSIS
 
 This is a Perl interface to the LibraryThing social cataloging
-website' thingISBN web service, which "takes an ISBN and returns a
+website's thingISBN web service, which "takes an ISBN and returns a
 list of ISBNs from the same 'work' (ie., other editions and
 translations)." The web service is freely available for noncommercial
 use, per the terms at L<http://www.librarything.com/api>.
