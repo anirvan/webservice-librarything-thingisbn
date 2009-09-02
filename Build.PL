@@ -15,6 +15,7 @@ my $builder = Module::Build->new(
                             'HTTP::Request'  => 0,
                             'LWP::UserAgent' => 0,
               },
+              recommends => { 'Time::HiRes' => 0, },
               add_to_cleanup     => ['WebService-LibraryThing-ThingISBN-*'],
               create_makefile_pl => 'traditional',
 );
